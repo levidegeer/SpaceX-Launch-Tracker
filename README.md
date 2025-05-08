@@ -11,4 +11,4 @@ A simple web app that fetches and displays upcoming SpaceX rocket launches using
 2. Open `index.html` in your browser
 
 ## API Used
-[SpaceX API - Upcoming Launches](https://api.spacexdata.com/v4)
+https://api.spacexdata.com/v4
