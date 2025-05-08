@@ -1,4 +1,4 @@
-# SpaceX Launch Tracker 🚀
+# SpaceX Launch Tracker
 A simple web app that fetches and displays upcoming SpaceX rocket launches using the SpaceX API.
 
 ## Features
